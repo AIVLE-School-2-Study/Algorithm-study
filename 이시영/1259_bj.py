@@ -4,4 +4,4 @@ while True:
     if n == n[::-1]:  # 문자열 뒤집기
         print("yes")
     else:
-        print("no")
+        print("no") 
